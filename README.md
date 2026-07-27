@@ -286,17 +286,6 @@ Projects    : TrueShield AI
 <table>
 <tr>
 
-<td width="50%">
-
-## 🛡 TrueShield AI
-
-AI-powered Cyber Security Surveillance System
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
 ## 🛡️ TrueShield AI
@@ -404,7 +393,6 @@ Python-based vulnerability scanning tool.
 
 </tr>
 </table>
----
 
 # 💼 Experience Timeline
 
