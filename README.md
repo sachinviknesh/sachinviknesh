@@ -150,7 +150,7 @@ Projects    : TrueShield AI
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
 
 ---
 
