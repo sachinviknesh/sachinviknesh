@@ -292,48 +292,55 @@ Projects    : TrueShield AI
 
 AI-powered Cyber Security Surveillance System
 
-### Features
+# 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ TrueShield AI
+
+AI-powered Cyber Security Surveillance System
+
+### ✨ Features
 - 🎯 Real-Time Threat Detection
 - 📹 Live Camera Monitoring
 - 📧 Email Alert System
-- 🤖 AI Fight Detection
+- 🥊 AI Fight Detection
 - 📊 Security Dashboard
 - 🔔 Instant Notifications
 
-### Tech Stack
+### ⚙️ Tech Stack
 
-`React`
+`React` `TypeScript`
 
-`Node.js`
+`Node.js` `Express`
 
-`Express`
-
-`SQLite`
+`SQLite` `Prisma`
 
 `Socket.IO`
 
-`Prisma`
+### 🔗 Repository
 
-🔗 **Repository:** *(Coming Soon)*
+<a href="https://github.com/sachinviknesh/trueshield-ai">View Repository →</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🔐 Password Security Checker
+## 🔐 Password Strength Analyzer
 
-Password strength analyzer capable of checking
+Password strength analysis and secure password recommendations.
 
-- Weak Passwords
+### ✨ Features
 
-- Password Entropy
+- 🔴 Weak Password Detection
+- 📊 Password Entropy Analysis
+- ⚠️ Common Password Detection
+- 💡 Secure Password Suggestions
 
-- Common Password Detection
-
-- Secure Password Suggestions
-
-### Technologies
+### ⚙️ Technologies
 
 `Java`
 
@@ -341,68 +348,62 @@ Password strength analyzer capable of checking
 
 `Regex`
 
-🔗 **Repository:** *(Coming Soon)*
+### 🔗 Repository
+
+<a href="https://github.com/sachinviknesh/Password-Strength-Analyzer">View Repository →</a>
 
 </td>
 
 </tr>
+</table>
 
+<table>
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-## 🌐 Vulnerability Scanner
+## 📧 Phishing Email Detection
 
-Basic Web Vulnerability Scanner
+Machine Learning based phishing email classifier.
 
-Features
-
-- Port Scanning
-
-- Banner Grabbing
-
-- HTTP Header Analysis
-
-- Website Fingerprinting
-
-Tools
+### ⚙️ Tech
 
 `Python`
 
-`Nmap`
+`Scikit-Learn`
 
-`Requests`
+`Pandas`
+
+`NumPy`
+
+### 🔗 Repository
+
+<a href="https://github.com/sachinviknesh/Phishing-Email-Detection-Model">View Repository →</a>
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-## 🕵 Digital Forensics Learning
+## 🔍 Vulnerability Scanner
 
-Hands-on practice with
+Python-based vulnerability scanning tool.
 
-- Memory Analysis
+### ⚙️ Tech
 
-- Disk Investigation
+`Python`
 
-- Log Analysis
+`Sockets`
 
-- Malware Investigation
+`Requests`
 
-Tools
+### 🔗 Repository
 
-`Autopsy`
-
-`Wireshark`
-
-`Volatility`
+<a href="https://github.com/sachinviknesh/Vulnerability-Scanner">View Repository →</a>
 
 </td>
 
 </tr>
-
 </table>
-
 ---
 
 # 💼 Experience Timeline
