@@ -284,6 +284,7 @@ Projects    : TrueShield AI
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -293,6 +294,7 @@ Projects    : TrueShield AI
 AI-powered Cyber Security Surveillance System
 
 ### ✨ Features
+
 - 🎯 Real-Time Threat Detection
 - 📹 Live Camera Monitoring
 - 📧 Email Alert System
@@ -344,9 +346,7 @@ Password strength analysis and secure password recommendations.
 </td>
 
 </tr>
-</table>
 
-<table>
 <tr>
 
 <td width="50%" valign="top">
@@ -375,6 +375,7 @@ Machine Learning based phishing email classifier.
 ### 🔗 Repository
 
 <a href="https://github.com/sachinviknesh/Phishing-Email-Detection-Model">View Repository →</a>
+
 </td>
 
 <td width="50%" valign="top">
@@ -403,9 +404,11 @@ Python-based vulnerability scanning tool.
 ### 🔗 Repository
 
 <a href="https://github.com/sachinviknesh/Vulnerability-Scanner">View Repository →</a>
+
 </td>
 
 </tr>
+
 </table>
 
 # 💼 Experience Timeline
