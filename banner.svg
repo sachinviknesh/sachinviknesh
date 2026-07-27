@@ -152,11 +152,11 @@
     <text x="338" y="237" font-family="Arial,sans-serif" font-size="9.5"
           fill="rgba(255,255,255,0.38)" letter-spacing="1.2" text-anchor="middle">CERTIFICATES</text>
 
-    <line x1="378" y1="208" x2="378" y2="240" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+   <line x1="395" y1="208" x2="395" y2="240" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
 
-    <text x="415" y="222" font-family="'Arial Black',sans-serif" font-size="24"
+    <text x="445" y="222" font-family="'Arial Black',sans-serif" font-size="24"
           font-weight="900" fill="#a855f7" text-anchor="middle">CSE</text>
-    <text x="415" y="237" font-family="Arial,sans-serif" font-size="9.5"
+    <text x="445" y="237" font-family="Arial,sans-serif" font-size="9.5"
           fill="rgba(255,255,255,0.38)" letter-spacing="1.2" text-anchor="middle">CYBER SECURITY</text>
 
     <!-- TERMINAL -->
