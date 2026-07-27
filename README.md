@@ -355,6 +355,13 @@ Password strength analysis and secure password recommendations.
 
 Machine Learning based phishing email classifier.
 
+### ✨ Features
+
+- 📧 Detect Phishing Emails
+- 🤖 Machine Learning Classification
+- 🔍 URL & Keyword Analysis
+- 📊 Email Risk Prediction
+
 ### ⚙️ Tech
 
 `Python`
@@ -369,13 +376,16 @@ Machine Learning based phishing email classifier.
 
 <a href="https://github.com/sachinviknesh/Phishing-Email-Detection-Model">View Repository →</a>
 
-</td>
-
-<td width="50%" valign="top">
-
 ## 🔍 Vulnerability Scanner
 
 Python-based vulnerability scanning tool.
+
+### ✨ Features
+
+- 🔍 Port Scanning
+- 🌐 Service Detection
+- ⚠️ Vulnerability Detection
+- 📄 Scan Report Generation
 
 ### ⚙️ Tech
 
@@ -385,10 +395,11 @@ Python-based vulnerability scanning tool.
 
 `Requests`
 
+`Nmap`
+
 ### 🔗 Repository
 
 <a href="https://github.com/sachinviknesh/Vulnerability-Scanner">View Repository →</a>
-
 </td>
 
 </tr>
