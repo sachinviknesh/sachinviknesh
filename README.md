@@ -375,6 +375,9 @@ Machine Learning based phishing email classifier.
 ### 🔗 Repository
 
 <a href="https://github.com/sachinviknesh/Phishing-Email-Detection-Model">View Repository →</a>
+</td>
+
+<td width="50%" valign="top">
 
 ## 🔍 Vulnerability Scanner
 
