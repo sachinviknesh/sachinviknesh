@@ -552,25 +552,57 @@ Duration
 ```
 
 ---
-
 <div align="center">
 
-# 🎯 2026 Goals
+# 🎯 2026 Mission Roadmap
 
-✅ Build More Cyber Security Projects
+<table align="center">
+<tr>
+<td>
 
-✅ Participate in National CTFs
+🛡️ **Cyber Security Projects**  
+🟩🟩🟩🟩⬜ 80%
 
-✅ Publish More Research
+</td>
+<td>
 
-✅ Master Penetration Testing
+🏆 **Participate in National CTFs**  
+🟩🟩🟩⬜⬜ 60%
 
-✅ Contribute to Open Source
+</td>
+</tr>
 
-✅ Strengthen GitHub Portfolio
+<tr>
+<td>
 
+📑 **Publish Research Papers**  
+🟩🟩⬜⬜⬜ 40%
+
+</td>
+<td>
+
+⚔️ **Master Penetration Testing**  
+🟩🟩🟩🟩⬜ 80%
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌍 **Contribute to Open Source**  
+🟩🟩🟩⬜⬜ 60%
+
+</td>
+<td>
+
+🚀 **Strengthen GitHub Portfolio**  
+🟩🟩🟩🟩🟩 100%
+
+</td>
+</tr>
+</table>
 </div>
-
 ---
 
 # 📊 GitHub Analytics
