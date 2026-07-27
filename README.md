@@ -577,12 +577,6 @@ Duration
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinviknesh&show_icons=true&theme=radical&hide_border=true&bg_color=0d0017&title_color=A855F7&icon_color=EC4899&text_color=ffffff&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinviknesh&layout=compact&theme=radical&hide_border=true&bg_color=0d0017&title_color=A855F7&text_color=ffffff"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=sachinviknesh&theme=radical&hide_border=true&background=0d0017&stroke=A855F7&ring=EC4899&fire=C084FC&currStreakLabel=A855F7&sideLabels=ffffff"/>
 
 </div>
@@ -616,22 +610,6 @@ alt="github contribution snake"
 src="https://raw.githubusercontent.com/sachinviknesh/sachinviknesh/output/github-snake-dark.svg"/>
 
 </picture>
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinviknesh&theme=radical"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinviknesh&theme=radical"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachinviknesh&theme=radical"/>
 
 </div>
 
