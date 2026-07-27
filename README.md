@@ -603,7 +603,6 @@ Duration
 </tr>
 </table>
 </div>
----
 
 # 📊 GitHub Analytics
 
