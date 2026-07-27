@@ -5,24 +5,6 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Sachin+Viknesh+M.K;Cyber+Security+Student;CTF+Winner;Java+Developer;Security+Research+Enthusiast" />
 
-### ⚔️ JAVA • CYBER SECURITY • CTF • ETHICAL HACKING
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:20002c,100:cbb4d4&text=Sachin%20Viknesh%20M.K&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20CTF%20Winner%20%7C%20Java%20Developer&descAlignY=60"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-viknesh-m-k-417862311/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinviknesh)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinviknesh6002@gmail.com)
-
-</div>
-
 ---
 
 # 👾 whoami
