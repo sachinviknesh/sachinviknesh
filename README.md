@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Banner">
+</p>
 <div align="center">
 
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Sachin+Viknesh+M.K;Cyber+Security+Student;CTF+Winner;Java+Developer;Security+Research+Enthusiast" />
